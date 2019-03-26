@@ -1,8 +1,8 @@
 {
     "Title": "Contoso Air",
-	"Home": {
-		"HeroMessage": "Feed your heart"
-	},
+  "Home": {
+    "HeroMessage": "Fly. Feed your heart."
+  },
 	"Deals": {
 		"CitiesTitle": "Your recommendations",
 		"FlightsTitle": "Flight deals",

@@ -5,10 +5,10 @@ trigger:
     - master
 
 steps:
-- task: Npm@1
+ - task: Npm@1
     inputs:
     command: 'install'
-- script:
+ - script:
     npm test
     displayName: 'Run unit tests'
     continueOnError: true

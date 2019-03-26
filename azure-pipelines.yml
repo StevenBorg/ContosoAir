@@ -3,6 +3,7 @@ pool:
   
 trigger: 
     - master
+    - pr
 
 steps:
 - task: CopyFiles@2

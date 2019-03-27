@@ -5,11 +5,6 @@ trigger:
     - master
 
 steps:
-
-- script: npm test
-  displayName: 'Run unit tests'
-  continueOnError: true
-  
 - task: CopyFiles@2
   displayName: 'Copy Files to: $(build.artifactstagingdirectory)/Templates'
   inputs:

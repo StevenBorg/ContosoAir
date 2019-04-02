@@ -1,10 +1,10 @@
 {
     "Title": "Contoso Air",
   "Home": {
-    "HeroMessage": "Fly to the sky."
+    "HeroMessage": "Crawl, walk run."
   },
 	"Deals": {
-		"CitiesTitle": "Explore the world.",
+		"CitiesTitle": "Destinations you can walk to.",
 		"FlightsTitle": "Flight deals",
 		"FlightsTo": "to ",
 		"FlightsPrice": "Purchase by ",

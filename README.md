@@ -1,6 +1,6 @@
 
 
-[![Build Status](https://dev.azure.com/stborg/Contoso Air/_apis/build/status/StevenBorg.ContosoAir?branchName=master)](https://dev.azure.com/stborg/Contoso Air/_build/latest?definitionId=11&branchName=master)
+[![Build Status](https://dev.azure.com/stborg/Contoso%20Air/_apis/build/status/StevenBorg.ContosoAir?branchName=master)](https://dev.azure.com/stborg/Contoso%20Air/_build/latest?definitionId=11&branchName=master)
 
 # Microsoft.Github CI Demo
 

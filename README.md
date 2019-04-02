@@ -6,6 +6,8 @@
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
 
+[![Build Status](https://dev.azure.com/stborg/Contoso Air/_apis/build/status/StevenBorg.ContosoAir?branchName=master)](https://dev.azure.com/stborg/Contoso Air/_build/latest?definitionId=11&branchName=master)
+
 ## Requirements
 
 * Node v8.9.4 or later

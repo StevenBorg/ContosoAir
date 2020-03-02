@@ -1,10 +1,10 @@
 {
     "Title": "Contoso Air",
   "Home": {
-    "HeroMessage": "Fly, fly, fly"
+    "HeroMessage": "Fly and Dive into the Air"
   },
 	"Deals": {
-		"CitiesTitle": "Your personalized recommendations",
+		"CitiesTitle": "Your personalized recommendations can always be changed",
 		"FlightsTitle": "Flight deals",
 		"FlightsTo": "to ",
 		"FlightsPrice": "Purchase by ",
